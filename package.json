@@ -22,7 +22,7 @@
   "homepage": "http://github.com/andris9/nodemailer-smtp-transport",
   "dependencies": {
     "nodemailer-wellknown": "^0.1.5",
-    "smtp-connection": "^1.2.0"
+    "smtp-connection": "git://github.com/sackio/smtp-connection#master"
   },
   "devDependencies": {
     "chai": "^2.1.1",
